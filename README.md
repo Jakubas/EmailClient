@@ -1,9 +1,9 @@
 # Email-Client #
 ## Features ##
-This email client allows the user:
+This email client allows the user to:
 
 - read their emails
-- send an email
+- send an email with attachments
 - search their emails
 - change email to read or unread
 - filter their emails with user flags based on keywords
